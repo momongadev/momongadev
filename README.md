@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a game engine<br>👯 I’m looking to collaborate on minecraft mods for forge<br>🤝 I’m looking for help with open gl<br>🌱 I’m currently learning graphics
+🔭 I’m currently working on a game engine<br>👯 I’m looking to collaborate on minecraft mods for forge<br>🤝 I’m looking for help with OpenGL<br>🌱 I’m currently learning graphics
 
 
 ## 🌐 Socials:
