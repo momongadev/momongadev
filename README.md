@@ -2,7 +2,8 @@
 🔭 I’m currently focusing on Micorsoft Azure AI tools<br>👯 I’m looking to collaborate on minecraft mods for forge<br>🌱 I’m currently learning AI Engineering
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilan-g%C3%B3mez-toaza-5ba824176/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilan-gomez-toaza-5ba824176/) 
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)]([https://www.threads.net/@your_username](https://www.threads.com/@gz_dilan?hl=es-la))
 
 ## 🧰 Tech Stack
 
