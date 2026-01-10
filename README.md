@@ -45,24 +45,6 @@ I’ve worked on designing and developing custom software to improve operations,
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=momongadev&theme=dark)
-![](https://github-readme-streak-stats.herokuapp.com/?user=momongadev&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=momongadev&theme=dark&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=momongadev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ### ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=momongadev&icon=1&color=7)](https://visitcount.itsvg.in)
